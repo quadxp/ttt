@@ -1,5 +1,8 @@
-VELKON GAMING TTT SERVER CODE
+COTM TTT SERVER CODE
 =========
+
+*Note:* This project is on-going.
+
 From my past experiences, your gmod server's player slots __WILL__ become fulled or be filled up too quickly.
 
 To fix this for garry, your requirements is MySQL server to launch __as many more totally__ new replicated gmod servers as we need effortlessly.
