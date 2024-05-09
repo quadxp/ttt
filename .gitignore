@@ -1,3 +1,5 @@
+# TODO: What the actual flying fuck is this?
+
 /*
 /*/
 !/addons/
@@ -16,6 +18,7 @@
 !/data
 !/db
 *.*
+!*.md
 
 !/data/banned_words_list.txt
 # !/data/moat/ttt/textures-data.lmp
