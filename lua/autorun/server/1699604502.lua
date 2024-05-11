@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_community_pool_remake') then resource.AddWorkshop(1699604502) end

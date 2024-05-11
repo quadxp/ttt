@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_bank_b13') then resource.AddWorkshop(610493442) end

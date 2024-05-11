@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_mttresort_v2') then resource.AddWorkshop(719634946) end

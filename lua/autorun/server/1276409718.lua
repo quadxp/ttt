@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_biocube') then resource.AddWorkshop(1276409718) end

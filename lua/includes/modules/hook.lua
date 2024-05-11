@@ -1,1 +1,0 @@
-hook = include "newhook.lua"

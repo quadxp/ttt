@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_csgo_train') then resource.AddWorkshop(579646839) end

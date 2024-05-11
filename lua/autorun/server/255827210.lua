@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_ski_resort_a5_f1') then resource.AddWorkshop(255827210) end

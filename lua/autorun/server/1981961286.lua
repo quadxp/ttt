@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_mushroom_forest') then resource.AddWorkshop(1981961286) end

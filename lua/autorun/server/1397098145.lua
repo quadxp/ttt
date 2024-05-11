@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_rpgvillage') then resource.AddWorkshop(1397098145) end

@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_saturday_night') then resource.AddWorkshop(1581898368) end

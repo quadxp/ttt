@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_submarine') then resource.AddWorkshop(949158837) end

@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_pokemon_v2') then resource.AddWorkshop(396645991) end

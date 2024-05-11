@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_container_yard') then resource.AddWorkshop(1597094910) end

@@ -1,1 +1,0 @@
-moat.plugins = moat.plugins or {}

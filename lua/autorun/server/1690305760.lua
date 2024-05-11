@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_minecraftmotel_b3u') then resource.AddWorkshop(1690305760) end

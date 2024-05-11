@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_helms_deep') then resource.AddWorkshop(438260177) end

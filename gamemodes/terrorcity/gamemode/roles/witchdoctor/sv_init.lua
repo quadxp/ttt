@@ -1,1 +1,0 @@
-local ROLE = ROLE

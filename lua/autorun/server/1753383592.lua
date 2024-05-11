@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_untextured_b3') then resource.AddWorkshop(1753383592) end

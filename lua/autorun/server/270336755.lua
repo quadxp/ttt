@@ -1,1 +1,0 @@
-if (game.GetMap() == 'ttt_minecraftcity_v4_dark') then resource.AddWorkshop(270336755) end
